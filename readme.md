@@ -36,4 +36,4 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_app-connect"></a> [app-connect](#output\_app-connect) | n/a |
+| <a name="output_app-connect"></a> [app-connect](#output\_app-connect) | the url of a test application to connect to and verify deployment|
